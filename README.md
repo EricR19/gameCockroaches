@@ -24,7 +24,6 @@ In this game, you must protect a pizza from waves of hungry cockroaches. Use pow
    - Phaser 3.86.0
    - JavaScript (ES6+)
    - HTML5
-   - CSS3
 
 ## Project Structure
 
